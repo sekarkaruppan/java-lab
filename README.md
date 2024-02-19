@@ -1,2 +1,1 @@
-# java-lab
-javacicd
+# devops-l1
